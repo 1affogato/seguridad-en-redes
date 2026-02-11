@@ -2,6 +2,7 @@
 ## Descripcion
 This file has a flag in plain sight (aka "in-the-clear").
 ## Solucion
+
 ```
 affogato1-picoctf@webshell:~$ wget https://challenge-files.picoctf.net/c_wily_courier/eaf5dbd32acd6d3318c402247156552fc789474a5328dc436404e97932ab34c3/flag
 --2026-02-10 05:30:02--  https://challenge-files.picoctf.net/c_wily_courier/eaf5dbd32acd6d3318c402247156552fc789474a5328dc436404e97932ab34c3/flag
