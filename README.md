@@ -2,4 +2,3 @@
 ## Notas de los retos resueltos durante la materia
 - Jose Vladimir Jimenez Valles
 - vladimirjmz1213@gmail.com
-- 
